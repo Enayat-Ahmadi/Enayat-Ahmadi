@@ -2,9 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0A66C2\&size=24\&center=true\&vCenter=true\&width=600\&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+MongoDB;Building+Modern+Web+Applications;Future+Software+Developer+in+Germany)
 
-💻 Full-Stack Web Developer
-📍 Based in Germany
-🚀 Building modern web applications with **React, Next.js, and MongoDB**
 
 ---
 
