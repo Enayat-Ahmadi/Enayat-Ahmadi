@@ -14,7 +14,7 @@ I focus on:
 
 * Building **modern React / Next.js apps**
 * Creating **clean UI and scalable architecture**
-* Developing **real e-commerce and finance applications**
+* Developing **real e-commerce applications**
 
 My goal is to work as a **Software Developer in Germany**.
 
